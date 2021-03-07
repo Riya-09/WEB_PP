@@ -17,6 +17,8 @@ function sayHi(name){
 
 // let value = sayHi();
 // console.log( value );
+
+
 // console.log(sayHi);
 
 let value = sayHi("Steve");
